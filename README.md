@@ -1,4 +1,4 @@
-# Logistics Digital Transformation (CRM + ERP) — Work Sample (Sanitised)
+# Logistics Digital Transformation (CRM + ERP) - Work Sample (Sanitised)
 
 This repository contains a **single supporting artefact** (PPT deck) summarising a **digital transformation project for a regional logistics company**, delivered using **Microsoft Power Platform / Dataverse** (model-driven app) with API-based integration.
 
@@ -22,3 +22,4 @@ Open the PPT deck above. It is the primary (and only) artefact in this repositor
 
 ## Confidentiality note
 Client/project identifiers have been removed where applicable. This artefact is shared to demonstrate delivery approach and solution design at a high level.
+
